@@ -1,6 +1,6 @@
 ### Hi there, I'm Parth Jadhav 👋
 
-I am a Designer and Developer who fell in love with tech since 12. I love the intersection  of Design and Code.
+I am a Designer and Developer who fell in love with tech while playing video games. I love the intersection  of Design and Code.
 
 ![GitHub followers](https://img.shields.io/github/followers/ParthJadhav?label=Follow&style=social)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Parth-Jadhav)
