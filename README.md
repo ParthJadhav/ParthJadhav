@@ -9,10 +9,6 @@ I'm a Developer and Designer who became hopelessly enamoured with tech while pla
 
 <hr>
 
-![my github activity graph](https://activity-graph.herokuapp.com/graph?username=ParthJadhav&bg_color=22272e&color=9BE8A8&line=9BE8A8&point=40C363&area=false&hide_border=true)
-
-<hr>
-
 ## 📞 Contact
 
  - [Follow me on Github](https://github.com/ParthJadhav)
