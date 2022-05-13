@@ -10,7 +10,7 @@ I'm a Developer and Designer who became hopelessly enamoured with tech while pla
 <hr>
 
 ## 📞 Contact
-
+ 
+ - [Linkedin](https://www.linkedin.com/in/parth-jadhav-a26a23183/)
  - [Follow me on Github](https://github.com/ParthJadhav)
- - [Reddit](https://www.reddit.com/user/ParthJadhav)
  - [Mail me](mailto:Jadhavparth99@gmail.com)
