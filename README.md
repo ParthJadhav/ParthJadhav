@@ -4,8 +4,7 @@ I'm a 17 y/o Developer and Designer who became hopelessly enamoured with tech wh
 
 ![GitHub followers](https://img.shields.io/github/followers/ParthJadhav?label=Follow&style=social)
 <object>
-[![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/parth-jadhav-a26a23183/)
-
+[![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/parthjadhav04/)
 
 ![Metrics](https://metrics.lecoq.io/ParthJadhav)
 
