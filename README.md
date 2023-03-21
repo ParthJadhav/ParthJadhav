@@ -10,10 +10,6 @@ When I'm not coding, you can find me exploring the great outdoors or trying out 
 <object>
 [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/parthjadhav04/)
 
-![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parthjadhav&show_icons=true&count_private=true)
-
-![Parth's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=parthjadhav&layout=compact&card_width=417)
-
 <hr>
 
 ## 📞 Contact
